@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/zombies/powerup"
+	"$model" "1"
+}
