@@ -16,14 +16,14 @@ You will now be able to play it by:
 3. `map bp_zombies_newreadmethod`
 
 ## Changes from V1.0
-###Player Side
+### Player Side
 * Weapon skins for CT teams will now show up.
 * Random weapon cases are more refined.
 * Zombies drop powerups (Nuke, Max Ammo, Revive, Heal all)
 * Infinite amount of players can play. (Compared to the max 10 cap)
 * "Hurt Chambers" are not needed.
 * Wallbuys allow you to refill your ammo for 1/2 price.
-###Level Developer Side
+### Level Developer Side
 * Wallbuys and doors do not require you to set functions or go into the script. Everything can be done via `targetname`'s.
 
 ---
